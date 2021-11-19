@@ -1,16 +1,14 @@
-# recife_go
+# RecifeGo
 
-RecifeGo PIBID-LC - Capes
+Projeto RecifeGo - Desenvolvido durante o PIBID-LC e financiado pela Capes.
 
-## Getting Started
+## Objetivos:
 
-This project is a starting point for a Flutter application.
+Esse projeto tem como objetivo o desenvolvimento de uma aplicação-game para os estudantes da ETE-PD.
+Em seu plano inicial os integrantes do PIBID-LC irão desenvolver a aplicação com a participação
+dos estudantes do 2º ano do ensino médio, em um modelo de design participativo.
 
-A few resources to get you started if this is your first Flutter project:
+No processo de desenvolvimento os integrantes do PIBID-LC com auxilio da coordenadora do PIBID-LC e do
+supervisor responsável, foi feito uma pesquisa etnográfica para levantamento das informações da escola
+e estudantes e a partir dai desenvolver um projeto interdisciplinar.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

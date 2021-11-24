@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701933105145",
+    "firebase_url": "https://recifego-c3e60-default-rtdb.firebaseio.com",
+    "project_id": "recifego-c3e60",
+    "storage_bucket": "recifego-c3e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701933105145:android:68ef49748f1ff74532d728",
+        "android_client_info": {
+          "package_name": "pibid.dallegrave.app.recife_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701933105145-fj2hqr0et58id8oh4c7jnp4euq4avums.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pibid.dallegrave.app.recife_go",
+            "certificate_hash": "dc8cfbd9c46d614616d39fe967fafbfc7b45f49e"
+          }
+        },
+        {
+          "client_id": "701933105145-d3f961isuopjh3kgnd5n9s66kojtdidr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkaRR-1lSqmUFE46t9IWX63TGw81caDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701933105145-d3f961isuopjh3kgnd5n9s66kojtdidr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
